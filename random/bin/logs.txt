@@ -1,0 +1,39 @@
+Application Started at 2022-04-09 10:34:10.1175972022-04-09 10:34:10.133254 mainFile This is the first launch.
+2022-04-09 10:34:17.129204 genSalt Salt created
+2022-04-09 10:34:17.129204 storeGlobal GPwd stored
+2022-04-09 10:34:17.258579 countAccounts No accounts found on startup
+2022-04-09 10:34:17.263221 countAccounts No accounts found on startup
+2022-04-09 10:34:17.273529 countAccounts No accounts found on startup
+2022-04-09 10:34:17.277517 countAccounts No accounts found on startup
+2022-04-09 10:34:48.858227 encrypt[al] Encrypt password request.
+2022-04-09 10:34:48.858227 countAccounts No accounts found on startup
+2022-04-09 10:34:48.858227 addEntry New account added: ritik.com
+2022-04-09 10:34:48.885629 refreshWindow Window has been refreshed.
+2022-04-09 10:34:49.003340 countAccounts Found 1 account(s) on startup
+2022-04-09 10:34:49.007329 countAccounts Found 1 account(s) on startup
+2022-04-09 10:34:49.018954 countAccounts Found 1 account(s) on startup
+2022-04-09 10:34:49.022939 countAccounts Found 1 account(s) on startup
+2022-04-09 10:34:49.027943 countAccounts Found 1 account(s) on startup
+2022-04-09 10:35:04.088206 encrypt[al] Encrypt password request.
+2022-04-09 10:35:04.088206 countAccounts Found 1 account(s) on startup
+2022-04-09 10:35:04.088206 addEntry New account added: fb.com
+2022-04-09 10:35:04.103453 refreshWindow Window has been refreshed.
+2022-04-09 10:35:04.257533 countAccounts Found 2 account(s) on startup
+2022-04-09 10:35:04.262838 countAccounts Found 2 account(s) on startup
+2022-04-09 10:35:04.272745 countAccounts Found 2 account(s) on startup
+2022-04-09 10:35:04.272745 countAccounts Found 2 account(s) on startup
+2022-04-09 10:35:04.272745 countAccounts Found 2 account(s) on startup
+2022-04-09 10:48:25.945958 checkPassword Bad Global
+2022-04-09 10:48:33.405822 deleteAccount Account deleted: 1
+2022-04-09 10:48:33.411840 refreshWindow Window has been refreshed.
+2022-04-09 10:48:33.543058 countAccounts Found 1 account(s) on startup
+2022-04-09 10:48:33.547048 countAccounts Found 1 account(s) on startup
+2022-04-09 10:48:33.557021 countAccounts Found 1 account(s) on startup
+2022-04-09 10:48:33.562009 countAccounts Found 1 account(s) on startup
+2022-04-09 10:48:33.566000 countAccounts Found 1 account(s) on startup
+2022-04-09 10:48:38.667013 deleteAccount Account deleted: 2
+2022-04-09 10:48:38.670503 refreshWindow Window has been refreshed.
+2022-04-09 10:48:38.802943 countAccounts Found 0 account(s) on startup
+2022-04-09 10:48:38.808443 countAccounts Found 0 account(s) on startup
+2022-04-09 10:48:38.817951 countAccounts Found 0 account(s) on startup
+2022-04-09 10:48:38.824149 countAccounts Found 0 account(s) on startup
